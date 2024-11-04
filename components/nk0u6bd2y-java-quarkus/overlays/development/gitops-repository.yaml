@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: nk0u6bd2y-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/nk0u6bd2y-java-quarkus-gitops
